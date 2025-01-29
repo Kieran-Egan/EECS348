@@ -1,0 +1,8 @@
+# Ignore all executables with .exe
+*.exe
+
+# Ignore Unix-style executables named 'myprogram'
+myprogram
+
+# Ignore any file named 'a.out'
+a.out
